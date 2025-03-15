@@ -27,7 +27,7 @@ pip install pygame
 ### 下載專案
 使用 Git Clone 下載專案：
 ```
-git clone https://github.com/你的GitHub帳號/monster_fall.git
+git clone https://github.com/vegetablechicken5437/monster_fall.git
 cd monster_fall
 ```
 
