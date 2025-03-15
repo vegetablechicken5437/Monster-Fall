@@ -28,7 +28,7 @@ pip install pygame
 使用 Git Clone 下載專案：
 ```
 git clone https://github.com/vegetablechicken5437/Monster-Fall.git
-cd monster_fall
+cd Monster-Fall
 ```
 
 ### 運行遊戲
